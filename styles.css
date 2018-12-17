@@ -4,8 +4,8 @@ html, body {
   height: 100%;
   width: 100%;
   position: absolute;
-  background-color: black;
-  background-image: url('https://ibb.co/Gp1g3tC');
+  background-color: white;
+ 
   background-repeat:repeat-x;
   background-position: top;
   z-index: -2;
